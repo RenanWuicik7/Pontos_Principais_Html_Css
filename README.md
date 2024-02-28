@@ -39,4 +39,4 @@
 > **[CLIQUE AQUI PARA TER ACESSO AO PROJETO COMPLETO](https://whip-burrito-64b.notion.site/Html5-e-Css3-Iniciante-Parte-1-at-4-860427d17e504a9d9de2c72947d734a3)** 😉
 
 ### ✍ Meu Resultado Após Praticar o Projeto:
-> **[Clique Aqui Para Acessar o Site Desenvlovido Em Todo o Projeto Que Foi o Site da Barbearia Alura](https://renanwuicik7.github.io/Barbearia_Alura_Parte_4/)** ✨
+> **[Clique Aqui Para Acessar o Site Desenvlovido Em Todo o Projeto Que Foi o Site da Barbearia Alura](https://renanwuicik7.github.io/Refatorando-Barbearia_Alura-P.I./index.html)** ✨
